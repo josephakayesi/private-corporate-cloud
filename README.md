@@ -1,4 +1,4 @@
-<p align="center" ><img src="https://res.cloudinary.com/tutcan/image/upload/v1653717198/general/private-corporate-cloud.png" width="100%" height="100%"></p>
+<p align="center" ><img src="https://res.cloudinary.com/tutcan/image/upload/v1653717782/general/private-corporate-cloud.png" width="100%" height="100%"></p>
 
 <br>
 <br>
