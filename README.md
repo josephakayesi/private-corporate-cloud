@@ -6,7 +6,7 @@
 
 ### Architecture Diagram
 
-<p align="center" ><img src="https://res.cloudinary.com/tutcan/image/upload/v1653717316/general/AWS_Architecture_2_-_Corporate_Only_Cloud.png" width="100%" height="100%"></p>
+<p align="center" ><img src="https://res.cloudinary.com/tutcan/image/upload/v1653717316/general/AWS_Architecture_2_-_Corporate_Only_Cloud.png" width="100%" height="100%" alt="Design by Joseph Akayesi. photo by CHUTTERSNAP"></p>
 
 <br>
 <br>
